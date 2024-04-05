@@ -62,6 +62,7 @@ const Channels = () => {
   return (
     <Spacings.Stack scale="xl">
       <Spacings.Stack scale="s">
+        <pre>some testing to be sure </pre>
         <Text.Headline as="h2" intlMessage={messages.title} />
         <Text.Subheadline as="h4">
           {intl.formatMessage(messages.subtitle, {
