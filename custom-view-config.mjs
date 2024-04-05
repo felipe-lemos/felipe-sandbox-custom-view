@@ -10,7 +10,7 @@ const config = {
     },
     production: {
       customViewId: 'clumn2ho2000izzfa5ablsudt',
-      url: 'https://my-custom-view.com',
+      url: 'https://felipe-sandbox-custom-view.vercel.app/',
     },
   },
   oAuthScopes: {
