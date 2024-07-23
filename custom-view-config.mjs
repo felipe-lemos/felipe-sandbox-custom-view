@@ -6,10 +6,10 @@ const config = {
   cloudIdentifier: 'gcp-eu',
   env: {
     development: {
-      initialProjectKey: 'felipe-sandbox',
+      initialProjectKey: 'b2b-demo-fr',
     },
     production: {
-      customViewId: 'clumn2ho2000izzfa5ablsudt',
+      customViewId: 'clyy3uoz9003c2zhpls19im57',
       url: 'https://felipe-sandbox-custom-view.vercel.app/',
     },
   },
